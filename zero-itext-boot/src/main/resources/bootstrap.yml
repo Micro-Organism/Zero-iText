@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-itext-boot
+    profiles:
+        active: dev
+server:
+    port: 18080
